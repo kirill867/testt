@@ -1,1 +1,0 @@
-print("Otn_itog_delete")
